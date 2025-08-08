@@ -5,6 +5,7 @@
 Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experience. Skilled in **full‑stack development** using **Java**, **Spring Boot**, and **Angular**, along with expertise in **DevOps** tools like **Docker**, **Jenkins**, and **Kubernetes**. Experienced in MVC architecture, collaborative problem‑solving, and delivering high‑quality solutions.
 
 🌐 Portfolio: [atharvagulhane.github.io](https://atharvagulhane.github.io)
+
 ---
 
 ## Table of Contents
@@ -13,6 +14,7 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 * [Experience & Education](#experience--education)
 * [Skills](#skills)
 * [Projects](#projects)
+* [Certifications](#certifications)
 * [GitHub Stats](#github-stats)
 * [Connect with Me](#connect-with-me)
 
@@ -65,6 +67,12 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 
 ---
 
+## Certifications
+
+* **[Developer Engineer Program](https://courses-in.skillup.online/programcertificates/5f4d498c28cf474abd1f3324b12238a4)** — SkillUp Online Certification
+
+---
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaGulhane\&show_icons=true\&theme=radical)
@@ -74,6 +82,5 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 
 ## Connect with Me
 
-* ✉ Email: [gulhaneatharva@gmail.com](mailto:gulhaneatharva@gmail.com)
 * 🌐 Portfolio: [atharvagulhane.github.io](https://atharvagulhane.github.io)
 * 💼 LinkedIn: [linkedin.com/in/gulhaneatharva](https://linkedin.com/in/gulhaneatharva)
