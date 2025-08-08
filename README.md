@@ -2,7 +2,7 @@
 
 ## About Me
 
-Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experience. Skilled in **full‑stack development** using **Java**, **Spring Boot**, and **Angular**, along with expertise in **DevOps** tools like **Docker**, **Jenkins**, and **Kubernetes**. Experienced in MVC architecture, collaborative problem‑solving, and delivering high‑quality solutions.
+Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experience. Skilled in **full-stack development** using **Java**, **Spring Boot**, and **Angular**, along with expertise in **DevOps** tools like **Docker**, **Jenkins**, and **Kubernetes**. Experienced in MVC architecture, collaborative problem-solving, and delivering high-quality solutions.
 
 🌐 Portfolio: [atharvagulhane.github.io](https://atharvagulhane.github.io)
 
@@ -28,7 +28,7 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 * Proficient in HTML, CSS, JavaScript, Java, Spring Boot, and Angular.
 * Developed and maintained applications following DevOps practices.
 * Configured Persistent Volume Claims (PVC) in Kubernetes.
-* Managed FTP/SFTP integrations for secure cross‑origin file transfers.
+* Managed FTP/SFTP integrations for secure cross-origin file transfers.
 * Containerised and optimised 100+ applications.
 * Improved container resource usage and application startup times.
 
@@ -62,7 +62,7 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 
 * **[Teknogeeks](https://github.com/AtharvaGulhane)** — News Blog project.
 * **[Email Validation](https://github.com/AtharvaGulhane)** — Logic-based form validation.
-* **[MEAN Stack Application Deployment](https://github.com/AtharvaGulhane/MEAN-STACK-APPLICATION-CODE-TO-DEPLOYEMNT)** — Full‑stack deployment with CI/CD, Docker, Kubernetes.
+* **[MEAN Stack Application Deployment](https://github.com/AtharvaGulhane/MEAN-STACK-APPLICATION-CODE-TO-DEPLOYEMNT)** — Full-stack deployment with CI/CD, Docker, Kubernetes.
 * **[HTML Pods Deployment](https://github.com/AtharvaGulhane/HTML-PODS-DEPLOYMENT)** — Static HTML deployment using Docker, Kubernetes, Jenkins.
 
 ---
@@ -70,6 +70,7 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 ## Certifications
 
 * **[Developer Engineer Program](https://courses-in.skillup.online/programcertificates/5f4d498c28cf474abd1f3324b12238a4)** — SkillUp Online Certification
+  ![Developer Engineer Program](https://atharvagulhane.github.io/assets/certificates/devops-engineer-thumb.jpg)
 
 ---
 
@@ -82,5 +83,6 @@ Dynamic **Software Developer** and **DevOps Engineer** with 2.5+ years of experi
 
 ## Connect with Me
 
+* ✉ Email: [gulhaneatharva@gmail.com](mailto:gulhaneatharva@gmail.com)
 * 🌐 Portfolio: [atharvagulhane.github.io](https://atharvagulhane.github.io)
 * 💼 LinkedIn: [linkedin.com/in/gulhaneatharva](https://linkedin.com/in/gulhaneatharva)
